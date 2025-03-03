@@ -27,7 +27,7 @@ export default function HomePage() {
             <div className="flex">
               <div className="flex-shrink-0 flex items-center">
                 <span className="text-2xl font-bold text-indigo-600">
-                  KUSAIDIA
+                  KUSAIDIA shshs
                 </span>
               </div>
             </div>
